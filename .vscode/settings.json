@@ -1,0 +1,9 @@
+{
+    "markdown.marp.themes": [
+        "./themes/olive/olive.css",
+        "./themes/haskell/haskell.css",
+        "./themes/colors/colors.css",
+        "./themes/umich/css/umich.css",
+        "./themes/dracula/dracula.css",
+    ]
+}
